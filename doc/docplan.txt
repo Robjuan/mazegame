@@ -1,0 +1,36 @@
+Explanation of Different Modules - (10M)
+  -presentations, appropriate diagrams
+  
+
+->
+Libscene is the base of everything..
+Manager looks at a scene and the objects it contains.
+It changes attribs of objects based on events in pygame's queue.
+It can change scene, and look at all the objects in their instead.
+When manager is loading a scene, the scene may tell it to look at other managers
+	for certain values, particularly theme manager.
+As manager examines the event queue, it calls functions from the current scene.
+
+
+Design (5M)
+  -Document the evolution of interface design
+
+->
+go build old versions, screenshot.
+CHILREN?
+
+
+Explanation of Ease of modification
+-> scenes. do not interfere with the processing of objects or game logic. All scenes do is make things pretty and add additional features. The core game is untouched.
+
+Explanation of how changing user requirements was taken into account
+-> 
+
+  
+Testing (5M)
+  -describe use of stubs/flags/output statements
+  -alpha
+  -beta
+  
+Different Modules
+-brief exp about how game/menu are instances.

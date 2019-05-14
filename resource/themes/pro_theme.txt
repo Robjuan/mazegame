@@ -1,0 +1,13 @@
+TextColor=(120,200,120)
+TitleColor=(0,255,0)
+Background="resource/themes/backgrounds/pro_background.png"
+
+GameBackground=None
+
+Music="resource/themes/music/colin_music.ogg"
+GameMusic=None
+WallColor=(0,0,0)
+TrackColor=(10,10,10)
+HeroColor=(0,255,0)
+TrigColor=(20,20,20)
+HeroImage=None

@@ -1,0 +1,11 @@
+TextColor=(0,0,0)
+TitleColor=(90,90,90)
+Background="resource/themes/backgrounds/starscream_background.jpg"
+GameBackground=None
+Music=None
+GameMusic=None
+WallColor=(154,0,108)
+TrackColor=(255,204,242)
+HeroColor=(0,0,255)
+TrigColor=(255,255,255)
+HeroImage=None

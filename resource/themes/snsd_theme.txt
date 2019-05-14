@@ -1,0 +1,16 @@
+TextColor=(255,112,219)
+
+TitleColor=(255,51,204)
+
+Background="resource/themes/backgrounds/snsd_background.jpg"
+
+GameBackground=None
+
+Music="resource/themes/music/snsd_music.ogg"
+
+GameMusic=None
+WallColor=(154,0,108)
+TrackColor=(255,204,242)
+HeroColor=(250,250,0)
+TrigColor=(255,255,255)
+HeroImage=None

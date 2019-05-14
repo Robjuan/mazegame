@@ -1,0 +1,16 @@
+****** DOCUMENTATION PLEEEASE
+*** fix winstar background(winstar.png)
+
+
+-> using self.mode = 0, esc =/= menu.
+
+
+
+**** COLOURBLIND MODE?
+
+
+
+OTHER NOTES AND SHIT:
+usage of leveldict instead of searching directory
+    massively increases portability
+    as does keeping fonts with games.

@@ -1,0 +1,6 @@
+shock:3=13
+HURR=500
+Rob=13
+Swan=13
+shockte=112
+OPTIMUS CHRIST=13

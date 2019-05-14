@@ -1,0 +1,11 @@
+TextColor=(230,230,230)
+TitleColor=(250,250,250)
+Background="resource/themes/backgrounds/optimus_background.jpg"
+GameBackground=None
+Music="resource/themes/music/optimus_music.ogg"
+GameMusic=None
+WallColor=(20,20,200)
+TrackColor=(100,100,100)
+HeroColor=(255,0,0)
+TrigColor=(200,200,200)
+HeroImage=None

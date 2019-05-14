@@ -1,0 +1,6 @@
+Standard="resource/themes/generic_theme.txt"
+SNSD="resource/themes/snsd_theme.txt"
+Optimus Prime="resource/themes/optimus_theme.txt"
+Batman="resource/themes/batman_theme.txt"
+Floral="resource/themes/flowers_theme.txt"
+Peter Ward="resource/themes/pro_theme.txt"

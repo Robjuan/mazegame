@@ -1,0 +1,8 @@
+# pycharm files
+*.xml
+*.iml
+*.patch
+
+
+# OS files
+.DS_Store

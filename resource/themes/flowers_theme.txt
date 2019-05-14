@@ -1,0 +1,14 @@
+TextColor=(190,205,155)
+TitleColor=(100,110,150)
+Background="resource/themes/backgrounds/flowers_background.jpg"
+
+GameBackground=None
+
+Music=None
+
+GameMusic=None
+WallColor=(150,180,200)
+TrackColor=(198,215,236)
+HeroColor=(204,41,255)
+TrigColor=(255,204,255)
+HeroImage=None

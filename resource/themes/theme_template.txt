@@ -1,0 +1,13 @@
+TextColor=(0,0,0)
+TitleColor=None
+Background="resource/themes/generic_background.png"
+
+GameBackground=None
+
+Music=None
+
+GameMusic=None
+WallColor=(0,0,0)
+TrackColor=(100,100,100)
+HeroColor=(200,200,200)
+TrigColor=(255,255,255)

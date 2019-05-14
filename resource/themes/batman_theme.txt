@@ -1,0 +1,13 @@
+TextColor=(20,20,20)
+TitleColor=(10,10,10)
+Background="resource/themes/backgrounds/batman_background.jpg"
+
+GameBackground=None
+
+Music="resource/themes/music/batman_music.ogg"
+GameMusic=None
+WallColor=(0,0,0)
+TrackColor=(100,100,100)
+HeroColor=(255,204,51)
+TrigColor=(0,102,204)
+HeroImage=None
